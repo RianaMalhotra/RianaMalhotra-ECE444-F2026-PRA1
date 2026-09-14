@@ -5,3 +5,7 @@
 
 ## Activity 2: Branching and Merging, Merge Command on powershell screenshot 
 <img width="731" height="218" alt="image" src="https://github.com/user-attachments/assets/5dae58bd-ccf7-458b-b621-0dfa819a3fc9" />
+
+## Activity 3: Successful Merge
+<img width="956" height="470" alt="image" src="https://github.com/user-attachments/assets/f0f60f05-68f5-41ef-82ac-fa8f0fcdcaae" />
+
