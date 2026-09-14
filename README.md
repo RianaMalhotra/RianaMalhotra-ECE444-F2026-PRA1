@@ -18,15 +18,13 @@
 
 ## Activity 5 - Git Rebase
 
-### Rebase Before
-<img width="459" height="266" alt="image" src="https://github.com/user-attachments/assets/d6142854-b685-4e12-b0bb-46f8d1b3eb36" />
+### Rebase Final History
+<img width="788" height="242" alt="image" src="https://github.com/user-attachments/assets/9d0350fc-0633-4168-98e3-e84dc542a34a" />
 
+### Rebase Branches
+<img width="458" height="107" alt="image" src="https://github.com/user-attachments/assets/e7d63fa0-91bd-43c1-9030-c43335c229cc" />
 
-### Rebase Command
+### Rebase commit order
+<img width="683" height="115" alt="image" src="https://github.com/user-attachments/assets/181366ab-278f-43ea-b1d9-35447f0a273e" />
 
-<img width="461" height="266" alt="image" src="https://github.com/user-attachments/assets/647b4cd6-e349-41a2-8917-9d61a9c33703" />
-
-
-### Rebase After
-<img width="457" height="254" alt="image" src="https://github.com/user-attachments/assets/f5accb6f-3e85-4d50-a174-f1d17fc89bef" />
 
