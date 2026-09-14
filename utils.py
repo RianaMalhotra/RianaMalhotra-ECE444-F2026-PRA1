@@ -1,12 +1,20 @@
 class utils:
 
-    def reversed(self, number):
-        if not isinstaance(number,int):
-            raise TypeErro("Input must be an integer")
-        return int(str(number)[::-1]) 
+    @staticmethod
+    def reversed(number):
+        if not isinstance(number, int) or isinstance(number, bool):
+            raise TypeError("number must be an integer")
 
-    def formatter(self, number):
-         if not isinstance(number, int):
-            raise TypeError("Input must be an integer")
-        return bin(int(number)), oct(int(number))
+        sign = -1 if number < 0 else 1
+        number = abs(number)
 
+        reversed_number = int(str(number)[::-1])
+
+        return sign * reversed_number
+
+    @staticmethod
+    def formatter(number):
+        if not isinstance(number, int) or isinstance(number, bool):
+            raise TypeError("number must be an integer")
+
+        return bin(number), oct(number)
